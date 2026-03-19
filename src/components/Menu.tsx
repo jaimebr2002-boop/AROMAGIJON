@@ -87,7 +87,7 @@ export default function Menu() {
       name: 'Choco',
       price: '6,90€',
       description: 'Base de crema de chocolate con leche (sin grasa de palma).',
-      badges: [{ icon: <Star size={14} />, text: 'Postre · ¡Gratis al pedir 2 pizzas!', color: 'text-dorado' }],
+      badges: [],
     },
   ];
 
